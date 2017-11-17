@@ -7,8 +7,8 @@
     <ProjectGuid>{05733F66-2EA8-4B91-99B6-5CA2C063B638}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Production.Examples</RootNamespace>
-    <AssemblyName>Production.Examples</AssemblyName>
+    <RootNamespace>Production</RootNamespace>
+    <AssemblyName>Production</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
