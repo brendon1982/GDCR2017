@@ -11,7 +11,7 @@
   - npm install
   - npm test
   - ... have fun
- - C#
+- C#
   - install vs 2017 community (https://www.visualstudio.com/vs/community/)
   - open Production.sln
   - build >> build solution
