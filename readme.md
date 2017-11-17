@@ -1,10 +1,10 @@
-- install vs code (https://code.visualstudio.com/)
 - get examples:
   - with git:
     - install git (https://git-scm.com/downloads)
-    - ...
-  - download as zip
+    - clone (https://github.com/brendon1982/GDCR2017.git)
+  - download as zip (https://github.com/brendon1982/GDCR2017/archive/master.zip)
 - javascript:
+  - install vs code (https://code.visualstudio.com/)
   - install nodejs (https://nodejs.org/en/)
   - open console
   - go to /javascript
@@ -14,3 +14,6 @@
  - C#
   - install vs 2017 community (https://www.visualstudio.com/vs/community/)
   - open Production.sln
+  - build >> build solution
+  - test >> run >> all tests
+  - ... have fun
