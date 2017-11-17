@@ -1,0 +1,15 @@
+- install vs code (https://code.visualstudio.com/)
+- get examples:
+  - with git:
+    - install git (https://git-scm.com/downloads)
+    - ...
+  - download as zip
+- javascript:
+  - install nodejs (https://nodejs.org/en/)
+  - open console
+  - go to /javascript
+  - npm install
+  - npm test
+  - ... have fun
+ - C#
+  - 
